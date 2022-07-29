@@ -1,1 +1,1 @@
-web: gunicorn App.wsgi --log-file -
+web: gunicorn amazon_clone.wsgi --log-file -
