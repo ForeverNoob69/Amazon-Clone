@@ -20,7 +20,7 @@ Pillow==8.4.0
 
 psycopg2==2.9.3
 
-
+djongo==1.3.6
 
 
 requests-oauthlib==1.3.1
