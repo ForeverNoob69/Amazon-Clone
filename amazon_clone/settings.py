@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-su&kse9ph!^@6x@r^vbb6396okv7u5mf#$cy()n(vl90y&kbe@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://amazon-clone69.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['amazon-clone69.herokuapp.com','127.0.0.1']
 
 
 # Application definition
