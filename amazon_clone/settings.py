@@ -124,7 +124,7 @@ DATABASES = {
         'ENGINE': 'djongo',
         'NAME': 'amazon',
         'CLIENT': {
-           'host': 'mongodb+srv://naimursharon:Nightfury69!@cluster0.bppaqzd.mongodb.net/?retryWrites=true&w=majority',
+          'host': 'mongodb+srv://naimfury:nightfury@cluster0.lepp1az.mongodb.net/test',
         }
     }
 }
